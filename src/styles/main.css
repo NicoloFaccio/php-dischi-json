@@ -2,7 +2,9 @@ body {
     background-color: rgba(29, 45, 60, 1);
 }
 
-header {
+header,
+.card {
+    color: white;
     background-color: rgba(6, 19, 31, 1);
 }
 

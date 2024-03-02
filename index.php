@@ -15,6 +15,10 @@
         <?php
           include_once __DIR__ . '/src/components/header.php';
         ?>
+
+        <?php
+          include_once __DIR__ . '/src/components/main.php';
+        ?>
     </div>
 
     <!-- VUE'S LINK -->
